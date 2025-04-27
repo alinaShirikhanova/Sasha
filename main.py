@@ -37,16 +37,21 @@
 # print(time[0])
 
 
-lst = [100, 24, 31, 45, 5, 6, 7, 8, 9, 10]
-# print(lst[0])
-# print(lst[1])
-# print(lst[2])
-# print(lst[3])
-# print(lst[4])
-# print(lst[5])
-# print(lst[6])
-# print(lst[7])
-# print(lst[8])
-# print(lst[9])
-for i in range(0,10):
-    print(lst[i])
+# lst = [100, 24, 31, 45, 5, 6, 7, 8, 9, 10]
+# # print(lst[0])
+# # print(lst[1])
+# # print(lst[2])
+# # print(lst[3])
+# # print(lst[4])
+# # print(lst[5])
+# # print(lst[6])
+# # print(lst[7])
+# # print(lst[8])
+# # print(lst[9])
+# for i in range(0,10):
+#     print(lst[i])
+
+
+
+price = 99.979
+print(f"Цена: {price:.2f} руб.")
